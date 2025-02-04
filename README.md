@@ -48,7 +48,7 @@ A Java-based machine learning application designed to train an AI model capable 
 ## How to Use
 
 1. Clone this repository to your local machine:
-git clone https://github.com/yourusername/TwitterBot.git
+git clone https://github.com/muditm006/TwitterBot.git
 cd TwitterBot
 
 2. Prepare a CSV file containing tweets from the desired Twitter account. Ensure that each line in the file represents one tweet.
